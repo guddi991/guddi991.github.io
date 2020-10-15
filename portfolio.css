@@ -1,18 +1,14 @@
 body{
-  background-color:#FFDAB9;
+  background: linear-gradient(to right,blue,black);
 }
 .button{
-  background-color:#FFDAB9;
-color:white;
-  border:1px solid;
+ text-decoration:none;
+color:blue;
+  border:auto;
   border-radius:3px;
-  box-sizing:border-box;
-  display:block;
   font:700 20px verdana, georgia, serif;
   height:50px;
   line-height:45px;
-  padding:0 20px;
-  margin:0 auto;
   position:absolute;
   left:200px;
 top:40px;
@@ -36,68 +32,59 @@ background-color:white;
 }
 
 a:hover{
-  color:#FC9FAB;
-  background-color:#D7A9E3FF;
+  color:white;
+  background-color:none;
 }
 .max{
-  background-color:#FFDAB9;
-color:white;
-  border:1px solid;
+  text-decoration:none;
+  background-color:none;
+color:blue;
+  border:auto;
   border-radius:3px;
-  box-sizing:border-box;
-  display:block;
   font:700 20px verdana, georgia, serif;
   height:50px;
   line-height:45px;
-  padding:0 20px;
-  margin:0 auto;
   position:absolute;
   left:800px;
 top:40px;
 }
 .min{
-  background-color:#FFDAB9;
-color:white;
-  border:1px solid;
+  background-color:none;
+color:blue;
+  
+  border:auto;
   border-radius:3px;
-  box-sizing:border-box;
-  display:block;
   font:700 20px verdana, georgia, serif;
   height:50px;
   line-height:45px;
-  padding:0 20px;
-  margin:0 auto;
   position:absolute;
   left:1050px;
 top:40px;
   float:;
 }
 head{
-background-color:white;
-color:#F699CD;
+background-color:black;
+color:blue;
   border:1px solid;
   border-radius:3px;
   box-sizing:border-box;
   display:block;
   font:700 20px verdana, georgia, serif;
-  height:150px;
+  height:100px;
   line-height:45px;
   padding:0 20px;
   margin:0 auto;
 }
 
 .mid{
-  background-color:#FFDAB9;
-color:white;
-  border:1px solid;
+  text-decoration:none;
+  background-color:none;
+color:blue;
+  border:auto;
   border-radius:3px;
-  box-sizing:border-box;
-  display:block;
   font:700 20px verdana, georgia, serif;
   height:50px;
   line-height:45px;
-  padding:0 20px;
-  margin:0 auto;
 position:absolute;
 left:480px;
 top:40px;
@@ -107,7 +94,7 @@ position:absolute;
 left:450px;
 }
 .say{
-position:absolute;
+position:blue;
 left:600px;
 top:200px;
 }
@@ -148,10 +135,10 @@ margin: 0 15px;
 font-size:30px;
 line-height:60px;
 transition: .6s;
-color:#cba5a8;
+color:blue;
 }
 .social ul li .fa:hover{
-color: #fff;
+color: #000000;
 }
 .social ul li a1 {
 position:relative;
@@ -159,7 +146,7 @@ display:block;
 width: 60px;
 height:60px;
 border-radius:50%;
-bacground-color:#fff;
+bacground-color:#000000;
 text-align: center;
 transition: .6s;
 box-shadow: 0 5px 4px rgba(0,0,0,.5);
