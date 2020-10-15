@@ -1,6 +1,9 @@
 body{
   background: linear-gradient(to right,blue,black);
 }
+h1{
+  color:purple;
+}
 .button{
  text-decoration:none;
 color:blue;
@@ -96,6 +99,7 @@ left:450px;
 }
 .say{
   color:purple;
+  font:800 50px verdana, geogia, serif;
 position:absolute;
 left:600px;
 top:200px;
