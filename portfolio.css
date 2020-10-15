@@ -95,7 +95,8 @@ position:absolute;
 left:450px;
 }
 .say{
-position:blue;
+  color:purple;
+position:absolute;
 left:600px;
 top:200px;
 }
