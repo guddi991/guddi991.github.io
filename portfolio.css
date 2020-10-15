@@ -27,14 +27,14 @@ position:absolute;
 left:210px;
 top:210px;
 }
-a1{
+a{
   color:#F9A48E;
 background-color:white;
   text-decoration:none;
   float:left;
 }
 
-a:hover{
+a1:hover{
   color:white;
   background-color:none;
 }
