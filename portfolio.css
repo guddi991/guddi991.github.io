@@ -29,12 +29,12 @@ top:210px;
 }
 a{
   color:#F9A48E;
-background-color:white;
+background-color:none;
   text-decoration:none;
   float:left;
 }
 
-a1:hover{
+a:hover{
   color:white;
   background-color:none;
 }
