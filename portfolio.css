@@ -36,7 +36,7 @@ background-color:white;
 
 a1:hover{
   color:white;
-  background-color:white;
+  background-color:none;
 }
 .max{
   text-decoration:none;
@@ -141,7 +141,7 @@ margin: 0 15px;
 font-size:30px;
 line-height:60px;
 transition: .6s;
-color:blue;
+color:black;
 }
 .social ul li .fa:hover{
 color: #000000;
