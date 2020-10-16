@@ -142,10 +142,10 @@ margin: 0 15px;
 font-size:30px;
 line-height:60px;
 transition: .6s;
-color:black;
+color:purple;
 }
 .social ul li .fa:hover{
-color: #000000;
+color: blue;
 }
 .social ul li a1 {
 position:relative;
@@ -153,7 +153,7 @@ display:block;
 width: 60px;
 height:60px;
 border-radius:50%;
-bacground-color:#000000;
+bacground-color:white;
 text-align: center;
 transition: .6s;
 box-shadow: 0 5px 4px rgba(0,0,0,.5);
