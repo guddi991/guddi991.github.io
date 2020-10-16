@@ -29,7 +29,7 @@ top:210px;
 }
 a{
  
-background-color:purple;
+background-color:none;
   text-decoration:none;
   float:left;
 }
@@ -142,7 +142,7 @@ margin: 0 15px;
 font-size:30px;
 line-height:60px;
 transition: .6s;
-color:purple;
+color:none;
 }
 .social ul li .fa:hover{
 color: blue;
