@@ -34,7 +34,7 @@ background-color:none;
   float:left;
 }
 
-a:hover{
+a1:hover{
   color:white;
   background-color:none;
 }
@@ -100,6 +100,7 @@ left:450px;
 .say{
   color:purple;
   font:700 20px verdana, geogia, serif;
+  line-height:55px;
 position:absolute;
 left:600px;
 top:200px;
